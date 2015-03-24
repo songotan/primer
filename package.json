@@ -16,5 +16,11 @@
     "grunt-parker": "~0.1.0",
     "grunt-sass": "~0.18.0",
     "grunt-contrib-watch": "~0.6.1"
+  },
+  "spm": {
+    "main": "css/primer.css",
+    "ignore": [
+      "docs"
+    ]
   }
 }
